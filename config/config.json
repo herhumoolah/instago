@@ -1,0 +1,65 @@
+{
+  "user": {
+    "instagram": {
+      "username": "mirubbleapp",
+      "password": "WTFUCK0011b"
+    },
+    "mail": {
+      "from": "mirubbleapp@gmail.com",
+      "password": "wtfuck0011",
+      "to": "mirubbleapp@gmail.com",
+      "smtp": "smtp.gmail.com:587",
+      "server": "smtp.gmail.com"
+    }
+  },
+  "limits": {
+    "maxRetry": 2,
+    "like": {
+      "min": 0,
+      "max": 10000
+    },
+    "comment": {
+      "min": 100,
+      "max": 10000
+    },
+    "follow": {
+      "min": 200,
+      "max": 10000
+    }
+  },
+  "tags": {
+    "reciclajetextil": {
+      "like": 12,
+      "comment": 8,
+      "follow": 4
+    },
+    "emprendedor": {
+      "like": 12,
+      "comment": 8,
+      "follow": 4
+    },
+    "emprendedora": {
+      "like": 12,
+      "comment": 8,
+      "follow": 4
+    },
+    "soyemprendedor": {
+      "like": 12,
+      "comment": 8,
+      "follow": 4
+    }
+  },
+  "comments": [
+    "que interesante!",
+    "wow",
+    "nice pic",
+    "Que buenaaa",
+    "cool",
+    "ooooh",
+    "que encantador",
+    "😍",
+    "🙌",
+    "🔥",
+    "👏"
+  ]
+}
